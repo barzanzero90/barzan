@@ -1,0 +1,5 @@
+export const AUTH_ACTIONS = {
+  SET_LOADING: "SET_LOADING",
+  SET_USER: "SET_USER",
+  SET_ERROR: "SET_ERROR",
+};
