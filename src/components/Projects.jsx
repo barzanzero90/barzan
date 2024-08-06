@@ -30,7 +30,7 @@ export default function Projects() {
   return (
     <div
       id="projects"
-      className="sm:p-14 p-2 flex flex-col justify-start items-start gap-3 py-2"
+      className="lg:p-14 p-2 flex flex-col justify-start items-start gap-3 py-2"
     >
       <h1 className="text-4xl">Projects</h1>
 

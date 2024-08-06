@@ -34,7 +34,7 @@ export default function Contact() {
   return (
     <div
       id="contact"
-      className="px-14 flex flex-col justify-start items-start gap-3 py-2"
+      className="lg:px-14 p-2 flex flex-col justify-start items-start gap-3 py-2"
     >
       <h1 className="text-4xl">Contact</h1>
 
